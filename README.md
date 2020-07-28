@@ -25,6 +25,4 @@ I'm a University student who lives in the Mauritius. I'm learning how to code. I
                                                                                                              
 <br />
 
-![mraif13's github stats](https://github-readme-stats.vercel.app/api?username=mraif13&theme=buefy&show_icons=true)
-
 

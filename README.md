@@ -1,4 +1,4 @@
-I'm a University student who lives in the Mauritius. I'm learning how to code. I love making and designing webpages with HTML, CSS, figma & sketch (and possible JavaScript in the future). I also enjoy programming in Python because they challenge me more. I love it when I can finally solve a difficult problem.
+I'm a University student who lives in the Mauritius. I'm learning how to code. I love making and designing webpages with HTML, CSS, figma & sketch (and possible JavaScript in the future).
 
 - ☘️I’m currently learning Business Management, HTML, CSS, Javascript, sketch and Python.
 - 🔭 I’m currently working on creating webpages and learning how to code.

@@ -1,6 +1,6 @@
 I'm a University student who lives in the Mauritius. I'm learning how to code. I love making and designing webpages with HTML, CSS, figma & sketch (and possible JavaScript in the future).
 
-- ☘️I’m currently learning Business Management, HTML, CSS, Javascript, sketch and Python.
+- ☘️ I’m currently learning Business Management, HTML, CSS, Javascript, sketch and Python.
 - 🔭 I’m currently working on creating webpages and learning how to code.
 - 😀 I like to watch documentaries, learn new things, read and go on hicking trips in my free time.
 - 💬 Ask me about anything tech related.

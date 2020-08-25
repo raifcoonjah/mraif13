@@ -1,7 +1,7 @@
 University student who lives in the Mauritius.
 
 - ☘️ Currently learning Business Management, HTML, CSS, Javascript, sketch, python and vue.js
-- 😀 I like to watch documentaries, learn new things, reading and go on hicking trips in my free time.
+<!-- - 😀 I like to watch documentaries, anime, learning new things, reading and going on hicking trips in my free time. -->
 - 💬 Ask me about anything tech related.
 - ⚡ Fun fact: I was never good at computer science in school, huh.
 

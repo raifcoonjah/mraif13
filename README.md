@@ -1,6 +1,6 @@
 University student who lives in the Mauritius.
 
-- ☘️ Currently learning Business Management, HTML, CSS, Javascript, sketch, python and vue.js
+- ☘️ Currently learning Business Management, HTML, CSS, Javascript, figma, docker, python and vue.js
 - 💬 Ask me about anything tech related.
 - ⚡ Fun fact: I was never good at computer science in school, huh.
 <!-- - 😀 I like to watch documentaries, anime, learning new things, reading and going on hicking trips in my free time. -->
@@ -32,8 +32,9 @@ University student who lives in the Mauritius.
 
 <br />
 
-### Currently learning: 
+<!-- 
 <img title="VueJs"  align="left" alt=" Reddit" width="33px" src="https://img.icons8.com/color/96/000000/vue-js.png" />
 <img title="ElectronJS" align="left" alt=" Reddit" width="33px" src="https://github.githubassets.com/images/icons/emoji/electron.png" />
 <br />
 <br />
+-->

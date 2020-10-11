@@ -2,7 +2,7 @@ University student who lives in the Mauritius.
 
 - ☘️ Currently learning Business Management, HTML, CSS, Javascript, figma, docker, python and vue.js
 - 💬 Ask me about anything tech related.
-- ⚡ Fun fact: I was never good at computer science in school, huh.
+- ⚡ Fun fact: Wait, what's this again?
 <!-- - 😀 I like to watch documentaries, anime, learning new things, reading and going on hicking trips in my free time. -->
 <br />
 <a href="https://www.linkedin.com/in/raif-coonjah-51800b196/">

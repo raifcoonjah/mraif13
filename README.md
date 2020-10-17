@@ -5,15 +5,6 @@ University student who lives in the Mauritius.
 - ⚡ Fun fact: Wait, what's this again?
 <!-- - 😀 I like to watch documentaries, anime, learning new things, reading and going on hicking trips in my free time. -->
 <br />
-<a href="https://www.linkedin.com/in/raif-coonjah-51800b196/">
-  <img align="left" alt="Linkedin" width="33px" src="https://img.icons8.com/color/96/000000/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/mraif13/">
-  <img align="left" alt="Instagram" width="33px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />                                                                                       
-</a>
-<a href="https://www.reddit.com/user/hiamnoone">
-  <img align="left" alt=" Reddit" width="33px" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
-</a>
 <a href="https://mraif13.xyz?from=github.com">
 <img title="Personal Website"  align="left" alt=" personal-website" width="33px" src="https://img.icons8.com/fluent/96/000000/domain.png" />
 </a>

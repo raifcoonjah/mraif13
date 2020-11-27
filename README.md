@@ -1,9 +1,9 @@
 University student who lives in the Mauritius.
 
-- ☘️ Currently learning Business Management, HTML, CSS, Javascript, figma, docker, python and vue.js
+- ☘️ Currently learning Business Management, Html, CSS, Javascript & python.
 - 💬 Ask me about anything tech related.
 - ⚡ Fun fact: Wait, what's this again?
-<!-- - 😀 I like to watch documentaries, anime, learning new things, reading and going on hicking trips in my free time. -->
+- Anime ✘ Tech enthusiast
 <br />
 <a href="https://mraif13.xyz?from=github.com">
 <img title="Personal Website"  align="left" alt=" personal-website" width="33px" src="https://img.icons8.com/fluent/96/000000/domain.png" />

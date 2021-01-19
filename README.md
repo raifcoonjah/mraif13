@@ -1,9 +1,7 @@
 University student who lives in the Mauritius.
 
-- ☘️ Currently learning Business Management & ..
-- 💬 Ask me about anything tech related.
-- ⚡ Fun fact: Wait, what's this again?
-- Anime ✘ Tech enthusiast
+- ☘️ Currently learning Business Management & Python.
+- 🐧 Linux enthusiast & Privacy advocate
 <br />
 <a href="https://mraif13.xyz?ref=github.com">
 <img title="Personal Website"  align="left" alt=" personal-website" width="33px" src="https://img.icons8.com/fluent/96/000000/domain.png" />

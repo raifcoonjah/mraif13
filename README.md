@@ -2,7 +2,7 @@ University student who lives in the Mauritius.
 
 - ☘️ Currently learning Python.
 - 🐧 Linux enthusiast & Privacy advocate
-- Find more about my homelab here: <a href="#link">Add link</a>
+- My Super simple homelab: <a href="https://mraif13.xyz/homelab/">Homelab</a>
 <br />
 <a href="https://mraif13.xyz?ref=github.com">
 <img title="Personal Website"  align="left" alt=" personal-website" width="33px" src="https://img.icons8.com/fluent/96/000000/domain.png" />

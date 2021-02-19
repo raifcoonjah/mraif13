@@ -1,8 +1,6 @@
-University student who lives in the Mauritius.
-
 - ☘️ Currently learning Python.
 - 🐧 Linux enthusiast & Privacy advocate
-- My super simple homelab: <a href="https://mraif13.xyz/homelab/">Homelab</a>
+- 🧪 Homelab Setup: <a href="https://mraif13.xyz/homelab/">Homelab</a>
 <br />
 <a href="https://mraif13.xyz?ref=github.com">
 <img title="Personal Website"  align="left" alt=" personal-website" width="33px" src="https://img.icons8.com/fluent/96/000000/domain.png" />
@@ -17,7 +15,7 @@ University student who lives in the Mauritius.
 <img title="CSS"  align="left" alt=" css" width="33px" src="https://img.icons8.com/color/96/000000/css3.png" />
 <img title="docker"  align="left" alt=" docker" width="33px" src="https://img.icons8.com/color/96/000000/docker.png" />
 <img title="Figma"  align="left" alt=" figma" width="33px" src="https://static.figma.com/app/icon/1/favicon.svg" />
-
+<img title="Python"  align="left" alt=" Python" width="33px" src="https://img.icons8.com/color/96/000000/python.png" />
 <br />
 
 <!-- 

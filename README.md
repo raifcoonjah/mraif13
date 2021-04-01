@@ -1,4 +1,4 @@
-- ☘️ Currently learning Python.
+- ☘️ Currently learning JavaScript.
 - 🐧 Linux enthusiast & Privacy advocate
 <br />
 <a href="https://mraif13.xyz?ref=github.com">
@@ -15,7 +15,6 @@
 <img title="CSS"  align="left" alt=" css" width="33px" src="https://img.icons8.com/color/96/000000/css3.png" />
 <img title="docker"  align="left" alt=" docker" width="33px" src="https://img.icons8.com/color/96/000000/docker.png" />
 <img title="Figma"  align="left" alt=" figma" width="33px" src="https://static.figma.com/app/icon/1/favicon.svg" />
-<img title="Python"  align="left" alt=" Python" width="33px" src="https://img.icons8.com/color/96/000000/python.png" />
 <img title="Git"  align="left" alt=" Git" width="33px" src="https://img.icons8.com/color/96/000000/git.png" />
 <br />
 

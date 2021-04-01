@@ -9,7 +9,7 @@
 
 ### Tech stack:
 
-<img title="Pop_OS!"  align="left" alt=" Python" width="33px" src="https://linuxdiscovery.com/wp-content/uploads/elementor/thumbs/popos-oeihu31rxa3oyyhyca50kp985e6bw60y8qwowfjhxy.png" />
+<img title="Arch Linux"  align="left" alt=" Arch Linux" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/768px-Archlinux-icon-crystal-64.svg.png" />
 <img title="Visual Studio code" align="left" alt=" VSC" width="33px" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" />
 <img title="HTML"  align="left" alt=" html" width="33px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img title="CSS"  align="left" alt=" css" width="33px" src="https://img.icons8.com/color/96/000000/css3.png" />

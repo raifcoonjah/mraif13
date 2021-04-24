@@ -1,4 +1,4 @@
-- ☘️ Currently learning Python.
+- ☘️ Currently learning about servers.
 - 🐧 Linux enthusiast & Privacy advocate
 <br />
 <a href="https://mraif13.xyz?ref=github.com">

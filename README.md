@@ -1,4 +1,5 @@
-- 🐧 Linux enthusiast & Privacy advocate
+- 🐧 Linux enthusiast.
+- Learning about computers and stuff.
 <br />
 <a href="https://mraif13.netlify.com?ref=github.com">
 <img title="Personal Website"  align="left" alt=" personal-website" width="33px" src="https://img.icons8.com/fluent/96/000000/domain.png" />
